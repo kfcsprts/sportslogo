@@ -26,26 +26,17 @@ https://jmp2.uk/sam-USBA3000158L.m3u8
 https://jmp2.uk/sam-US4500002UB.m3u8
 
 
-#EXTINF:-1 channel-id="samsung-INBD47000042I" tvg-id="INBD47000042I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240912T093648SQUARE.png" group-title="" tvg-chno="1267",The Q Kahaniyan
-https://jmp2.uk/sam-INBD47000042I.m3u8
+
 
 #EXTINF:-1 channel-id="samsung-IN4600008T4" tvg-id="IN4600008T4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20250122T004833SQUARE.png" group-title="" tvg-chno="1268",KidDo MATIX
 https://jmp2.uk/sam-IN4600008T4.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBA4900026FJ" tvg-id="INBA4900026FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900026FJ_20220427T054717SQUARE.png_20220427054718.png" group-title=""1269",Toon Goggles
-https://jmp2.uk/sam-INBA4900026FJ.m3u8
+
 
 #EXTINF:-1 channel-id="samsung-IN4600009F9" tvg-id="IN4600009F9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20250122T004827SQUARE.png" group-title="" tvg-chno="1270",Hooray Kids
 https://jmp2.uk/sam-IN4600009F9.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBC2800015NR" tvg-id="INBC2800015NR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800015NR_20221026T004839SQUARE.png_20221026004840.png" group-title="" tvg-chno="1271",BEANI TV
-https://jmp2.uk/sam-INBC2800015NR.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBD4700007IQ" tvg-id="INBD4700007IQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240912T093650SQUARE.png" group-title="" tvg-chno="1272",Q Toonz
-https://jmp2.uk/sam-INBD4700007IQ.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC280001662" tvg-id="INBC280001662" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC280001662_20221026T004838SQUARE.png_20221026004839.png" group-title="" tvg-chno="1273",BABY FIRST
-https://jmp2.uk/sam-INBC280001662.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="" tvg-chno="3610",Nick Pluto TV
 https://jmp2.uk/sam-USBA3000158L.m3u8
@@ -65,11 +56,7 @@ https://jmp2.uk/sam-CABA3700003NA.m3u8
 #EXTINF:-1 channel-id="samsung-USBB11000015Q" tvg-id="USBB11000015Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20241105T185734SQUARE.png" group-title="" tvg-chno="3627",Moonbug
 https://jmp2.uk/sam-USBB11000015Q.m3u8
 
-#EXTINF:-1 channel-id="samsung-CA210000188" tvg-id="CA210000188" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA210000188_20250121T094919SQUARE.png" group-title="" tvg-chno="3630",Blippi
-https://jmp2.uk/sam-CA210000188.m3u8
 
-#EXTINF:-1 channel-id="samsung-US9000032J" tvg-id="US9000032J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US9000032J_20241001T141609SQUARE.png" group-title="" tvg-chno="3630",Blippi
-https://jmp2.uk/sam-US9000032J.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD50000048H" tvg-id="USBD50000048H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD50000048H_20240520T214750SQUARE.png" group-title="" tvg-chno="3633",Caillou
 https://jmp2.uk/sam-USBD50000048H.m3u8
@@ -83,17 +70,6 @@ https://jmp2.uk/sam-CABD1200040JI.m3u8
 #EXTINF:-1 channel-id="samsung-USBD350002338" tvg-id="USBD350002338" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002338_20241105T185711SQUARE.png" group-title="" tvg-chno="3639",Baby Einstein
 https://jmp2.uk/sam-USBD350002338.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3500015R5" tvg-id="USBD3500015R5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20250121T101050SQUARE.png" group-title="" tvg-chno="3642",Teletubbies
-https://jmp2.uk/sam-USBD3500015R5.m3u8
-
-#EXTINF:-1 channel-id="samsung-US300001UO" tvg-id="US300001UO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300001UO_20250121T101134SQUARE.png" group-title="" tvg-chno="3645",Barney and Friends
-https://jmp2.uk/sam-US300001UO.m3u8
-
-#EXTINF:-1 channel-id="samsung-CABC52000039H" tvg-id="CABC52000039H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000039H_20250121T094924SQUARE.png" group-title="" tvg-chno="3648",Bob the Builder
-https://jmp2.uk/sam-CABC52000039H.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400013R7" tvg-id="USBC4400013R7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400013R7_20250121T101105SQUARE.png" group-title="" tvg-chno="3648",Bob the Builder
-https://jmp2.uk/sam-USBC4400013R7.m3u8
 
 #EXTINF:-1 channel-id="samsung-CABC5200004AI" tvg-id="CABC5200004AI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200004AI_20250121T095336SQUARE.png" group-title="" tvg-chno="3651",Strawberry Shortcake
 https://jmp2.uk/sam-CABC5200004AI.m3u8
@@ -113,11 +89,7 @@ https://jmp2.uk/sam-US2200006FS.m3u8
 #EXTINF:-1 channel-id="samsung-USBD3300015BY" tvg-id="USBD3300015BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300015BY_20250121T101108SQUARE.png" group-title="" tvg-chno="3657",Rainbow Ruby
 https://jmp2.uk/sam-USBD3300015BY.m3u8
 
-#EXTINF:-1 channel-id="samsung-CABD1700003AY" tvg-id="CABD1700003AY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700003AY_20250121T095458SQUARE.png" group-title="" tvg-chno="3660",ZooMoo
-https://jmp2.uk/sam-CABD1700003AY.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBC2400019EF" tvg-id="USBC2400019EF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20240520T214904SQUARE.png" group-title="" tvg-chno="3660",ZooMoo
-https://jmp2.uk/sam-USBC2400019EF.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD3300016AK" tvg-id="USBD3300016AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300016AK_20250121T101111SQUARE.png" group-title="" tvg-chno="3663",Rev and Roll
 https://jmp2.uk/sam-USBD3300016AK.m3u8
